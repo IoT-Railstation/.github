@@ -1,12 +1,14 @@
-## Hi there 👋
+## Welcome to IoT-Railstation
 
-<!--
+IoT-Railstation is an Open Source Projekt to modernize your Toy Trains.\
+We use Microcontrollers and MQTT to communicate with the Track and the Server so we can manage and controll our Tracks. We are currently in early Development and working on the first Release.
 
-**Here are some ideas to get you started:**
+Current Infrastructure:\
+-> **IoT-Railstation Server** => An Server Service to manage the Track so we dont need to have an Desktop App running all the time.\
+-> **IoT-Railstation Desktop** => An Windows Desktop App to connect to the IoT-Railstation Server wich where your then able to controll and edit your Tracks.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Tech Stack:
+- MQTT
+- C++
+- Electron
+- JavaScript
