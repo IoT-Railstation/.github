@@ -14,8 +14,13 @@ We use microcontrollers, MQTT and dedicated software to connect and control rail
 -> **IoT-Railstation Slaves** => Microcontrollers that receive and execute commands from the IoT-Railstation Server. They handle the direct control of railway hardware such as motors, lights, switches and signals.
 
 ### 🗺️ Our Roadmap
-
-
+- [ ] Think about the Architecture and more stuff
+- [ ] Write the Core Architecture
+- [ ] Add Slave Devices connect to Server
+- [ ] Add Live Train Feature
+- [ ] Add Track Editor to create custom Tracks
+- [ ] Add Track Play Mode to use and see details for the Track
+- [ ] Release IoT-Railstation v.1.0.0
 
 ### 💻 Tech Stack:
 - MQTT
