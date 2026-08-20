@@ -8,6 +8,7 @@ We use microcontrollers, MQTT and dedicated software to connect and control rail
 > [!CAUTION]
 > This Project is still in development. Only after the First Release an completly Install Guide and Tutorials will be final.
 
+### 💻 Current Status
 | Status | Projekt | Version |
 |:------:|---------|:-------:|
 | 🔴 | Desktop App | `No release` |
