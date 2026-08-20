@@ -8,6 +8,12 @@ We use microcontrollers, MQTT and dedicated software to connect and control rail
 > [!CAUTION]
 > This Project is still in development. Only after the First Release an completly Install Guide and Tutorials will be final.
 
+| Status | Projekt | Version |
+|:------:|---------|:-------:|
+| 🔴 | Desktop App | `No release` |
+| 🔴 | Server | `No release` |
+| 🔴 | Slaves | `No release` |
+
 ### 🌐 Current Infrastructure idea:
 -> **IoT-Railstation Server** => A dedicated server service that manages the railway system and provides the central control logic. This allows the railway to operate independently without requiring a desktop application to be running at all times.\
 -> **IoT-Railstation Desktop** => A Windows desktop application that connects to the IoT-Railstation Server. It allows users to monitor, control and configure their railway system, as well as create and edit tracks.\
